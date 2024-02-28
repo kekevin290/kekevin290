@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=#9932CC)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin290_icons=true&bg_color=#9932CC)
 
 
